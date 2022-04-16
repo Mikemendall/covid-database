@@ -1,1 +1,2 @@
-# Find number of people in 
+# Find number of people in the excel database "covidDatabase.xls"
+
